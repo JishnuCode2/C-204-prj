@@ -1,1 +1,2 @@
-# C-204-prj
+# Project-solution-204
+Tambola game stage-1
